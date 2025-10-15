@@ -1,8 +1,4 @@
 
-Sure — here’s the **complete, ready-to-paste README.md** for your GitHub repo
-👉 **`HousingMarket`**
-
----
 
 ```markdown
 # HousingMarket
