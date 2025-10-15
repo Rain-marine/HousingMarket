@@ -1,10 +1,8 @@
 
-
-```markdown
 # HousingMarket
 
 Analysis of the **Villeurbanne (France)** housing market, 2017–2021  
-by Rain-marine
+by Zahra Bahri
 
 ---
 
@@ -23,7 +21,6 @@ It combines data cleaning, exploratory data analysis (EDA), and basic modeling t
 
 ## 📁 Repository Structure
 
-```
 
 HousingMarket/
 ├── data/
@@ -38,7 +35,6 @@ HousingMarket/
 │   └── ss.jpg                        # additional chart
 └── README.md
 
-````
 
 ---
 
