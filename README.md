@@ -21,19 +21,19 @@ It combines data cleaning, exploratory data analysis (EDA), and basic modeling t
 
 ## 📁 Repository Structure
 
-
 HousingMarket/
 ├── data/
-│   ├── lyon_housing.csv              # raw dataset
-│   ├── roomdummy.csv                 # engineered features (dummy vars)
-│   └── station_coordinates.json      # transport station locations
+│ ├── lyon_housing.csv # raw dataset
+│ ├── roomdummy.csv # engineered features (dummy vars)
+│ └── station_coordinates.json # transport station locations
 ├── notebooks/
-│   ├── rain-phase2.Rmd               # R Markdown notebook
-│   └── rain-phase2.html              # rendered HTML report
+│ ├── rain-phase2.Rmd # R Markdown notebook
+│ └── rain-phase2.html # rendered HTML report
 ├── images/
-│   ├── s.png                         # sample visualization
-│   └── ss.jpg                        # additional chart
+│ ├── s.png # sample visualization
+│ └── ss.jpg # additional chart
 └── README.md
+
 
 
 ---
