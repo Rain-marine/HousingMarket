@@ -20,7 +20,7 @@ It combines data cleaning, exploratory data analysis (EDA), and basic modeling t
 ---
 
 ## 📁 Repository Structure
-
+```
 HousingMarket/
 ├── data/
 │   ├── lyon_housing.csv              # raw dataset
@@ -33,9 +33,7 @@ HousingMarket/
 │   ├── s.png                         # sample visualization
 │   └── ss.jpg                        # additional chart
 └── README.md
-
-
-
+```
 
 ---
 
