@@ -6,6 +6,9 @@ by Zahra Bahri
 
 ---
 
+<img width="817" height="566" alt="image" src="https://github.com/user-attachments/assets/6fc38480-4a4d-4b55-bdef-3f84dd1ce47d" />
+
+
 ## 📄 Overview
 
 This project explores **housing prices, spatial patterns, and price determinants** in Villeurbanne from 2017 to 2021.  
