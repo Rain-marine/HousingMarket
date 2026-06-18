@@ -16,6 +16,7 @@ This project explores **housing prices, spatial patterns, and price determinants
 It combines data cleaning, exploratory data analysis (EDA), and basic modeling to identify the main factors that influence housing prices.
 
 **Goals:**
+- Find "What house to buy" based on criterias like clossness to work, price, etc. using statistical algorithms.
 - Understand price variations by district, area, and number of rooms  
 - Examine how proximity to transport affects property values  
 - Build baseline predictive models for price estimation  
